@@ -1,6 +1,6 @@
 # Title Debug Mod
 
-A debugging mod (incl. noclip, centering camera) for the game Title by FuzzyAidan. Can be downloaded [here](https://drive.google.com/file/d/1ATE4fRHQD2-ATUpKC564CKwETopNugWr/view?usp=sharing).
+A debugging mod (incl. noclip, centering camera) for the game Title by FuzzyAidan. The game can be downloaded [here](https://drive.google.com/file/d/1ATE4fRHQD2-ATUpKC564CKwETopNugWr/view?usp=sharing).
 
 ## How to use:
 
